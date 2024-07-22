@@ -1,0 +1,85 @@
+date,amount,category,description
+20-07-2024,125.65,Income,Salary
+20-07-2024,125.65,Income,Salary
+22-07-2024,625.85,Expense,
+19-07-2024,154.0,Income,Pix
+18-07-2024,450.0,Expense,FIES
+21-07-2024,200.00,Income,Freelance
+21-07-2024,300.50,Expense,Groceries
+23-07-2024,150.75,Income,Gift
+23-07-2024,45.00,Expense,Coffee
+24-07-2024,75.00,Income,Dividends
+24-07-2024,100.00,Expense,Electricity
+25-07-2024,80.00,Expense,Water Bill
+25-07-2024,90.00,Income,Bonus
+26-07-2024,40.00,Expense,Transport
+26-07-2024,130.00,Income,Side Job
+27-07-2024,250.00,Expense,Rent
+27-07-2024,60.00,Expense,Internet
+28-07-2024,180.00,Income,Investment Return
+28-07-2024,120.00,Expense,Phone Bill
+29-07-2024,500.00,Income,Sale
+29-07-2024,75.00,Expense,Dining Out
+30-07-2024,30.00,Expense,Books
+30-07-2024,200.00,Income,Lottery
+31-07-2024,100.00,Expense,Clothing
+31-07-2024,250.00,Income,Refund
+01-08-2024,60.00,Expense,Gym
+01-08-2024,150.00,Income,Cashback
+02-08-2024,120.00,Expense,Medical
+02-08-2024,50.00,Income,Freelance
+03-08-2024,75.00,Expense,Entertainment
+03-08-2024,85.00,Income,Interest
+04-08-2024,95.00,Expense,Subscription
+04-08-2024,200.00,Income,Sale
+05-08-2024,50.00,Expense,Parking
+05-08-2024,170.00,Income,Investment Return
+06-08-2024,60.00,Expense,Transport
+06-08-2024,120.00,Income,Bonus
+07-08-2024,30.00,Expense,Snacks
+07-08-2024,300.00,Income,Gift
+08-08-2024,250.00,Expense,Rent
+08-08-2024,500.00,Income,Salary
+09-08-2024,100.00,Expense,Utilities
+09-08-2024,200.00,Income,Side Job
+10-08-2024,90.00,Expense,Groceries
+10-08-2024,150.00,Income,Investment Return
+11-08-2024,40.00,Expense,Entertainment
+11-08-2024,75.00,Income,Dividends
+12-08-2024,50.00,Expense,Coffee
+12-08-2024,200.00,Income,Freelance
+13-08-2024,60.00,Expense,Transport
+13-08-2024,125.00,Income,Gift
+14-08-2024,300.00,Expense,Shopping
+14-08-2024,400.00,Income,Bonus
+15-08-2024,85.00,Expense,Phone Bill
+15-08-2024,90.00,Income,Interest
+16-08-2024,100.00,Expense,Clothing
+16-08-2024,150.00,Income,Lottery
+17-08-2024,70.00,Expense,Gym
+17-08-2024,200.00,Income,Refund
+18-08-2024,120.00,Expense,Books
+18-08-2024,160.00,Income,Freelance
+19-08-2024,180.00,Expense,Medical
+19-08-2024,250.00,Income,Sale
+20-08-2024,50.00,Expense,Parking
+20-08-2024,75.00,Income,Cashback
+21-08-2024,95.00,Expense,Subscription
+21-08-2024,200.00,Income,Sale
+22-08-2024,60.00,Expense,Transport
+22-08-2024,120.00,Income,Bonus
+23-08-2024,30.00,Expense,Snacks
+23-08-2024,300.00,Income,Gift
+24-08-2024,250.00,Expense,Rent
+24-08-2024,500.00,Income,Salary
+25-08-2024,100.00,Expense,Utilities
+25-08-2024,200.00,Income,Side Job
+26-08-2024,90.00,Expense,Groceries
+26-08-2024,150.00,Income,Investment Return
+27-08-2024,40.00,Expense,Entertainment
+27-08-2024,75.00,Income,Dividends
+28-08-2024,50.00,Expense,Coffee
+28-08-2024,200.00,Income,Freelance
+29-08-2024,60.00,Expense,Transport
+29-08-2024,125.00,Income,Gift
+30-08-2024,300.00,Expense,Shopping
